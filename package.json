@@ -1,0 +1,25 @@
+{
+  "name": "todo_list_api_test",
+  "version": "1.0.0",
+  "description": "Restful api test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "api",
+    "test"
+  ],
+  "author": "xjxu",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4",
+    "mongoose": "^4.11.12"
+  }
+}
