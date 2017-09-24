@@ -3,6 +3,8 @@ Use [Mocha](https://mochajs.org/) to run [SuperTest](https://github.com/visionme
 
 [Istanbul](https://github.com/gotwarlost/istanbul), is a JavaScript code coverage tool that computes statement, line, function, and branch coverage with module loader hooks to transparently add coverage when running tests.
 
+More details refer to [Integration Testing: SuperTest, Mocha, and Chai](https://www.codementor.io/olatundegaruba/integration-testing-supertest-mocha-chai-6zbh6sefz).
+
 # Preview
 
  You just need to  clone this repo,that's all.
